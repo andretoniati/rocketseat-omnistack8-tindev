@@ -1,10 +1,10 @@
 ﻿# rocketseat-omnistack8-tindev
  
-INTRO
+## INTRO
 
 A week of training offered by @rocketseat to develop since backend to app mobile using a powerfull stack.
 
-OBJECTIF
+## OBJECTIF
 
 Develop an application since backend to mobile application.
 
